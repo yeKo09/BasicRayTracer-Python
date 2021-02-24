@@ -11,6 +11,10 @@ A camera is placed on a 3D environment and rays are cast from camera's position 
 
 ![](sourceImages/rayTracing.gif)
 
+The time it takes to produce this .gif file:
+
+![](sourceImages/runtimeProgram.PNG)
+
 ## How to run ?
 Download the source code and type
 ```
